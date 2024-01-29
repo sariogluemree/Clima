@@ -1,7 +1,5 @@
 #  Clima: Weather App
 
-Clima is an application designed to provide weather information quickly and user-friendly. As a student who has just completed their first project, I'd like to share with you some features of my application and the concepts I applied during this process.
-
 ## Key Features:
 
 ### Dark Mode Support:
