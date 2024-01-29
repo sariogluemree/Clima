@@ -1,5 +1,7 @@
 #  Clima: Weather App
 
+Clima is an application that facilitates users' weather tracking with features such as dark mode support and real-time fetching of live weather data. Utilizing Core Location, the app instantly provides weather information for the current location, and it also offers a manual city search option. Clima streamlines weather tracking with its simple and user-friendly experience.
+
 ## Key Features:
 
 ### Dark Mode Support:
